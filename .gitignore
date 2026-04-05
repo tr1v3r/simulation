@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 *.png
+*.pyo
+.DS_Store
+.venv/
